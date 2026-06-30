@@ -1,0 +1,3195 @@
+{
+  "small_vocab": {
+    "vocab_size": 265,
+    "rows": [
+      {
+        "category": "common",
+        "characters": 39,
+        "utf8_bytes": 39,
+        "tokens": 27,
+        "tokens_per_char": 0.6923,
+        "pieces": [
+          {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110,
+              105
+            ],
+            "text": "tokeni"
+          },
+          {
+            "bytes": [
+              122
+            ],
+            "text": "z"
+          },
+          {
+            "bytes": [
+              97,
+              116
+            ],
+            "text": "at"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              111
+            ],
+            "text": "o"
+          },
+          {
+            "bytes": [
+              110
+            ],
+            "text": "n"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              117
+            ],
+            "text": "u"
+          },
+          {
+            "bytes": [
+              114
+            ],
+            "text": "r"
+          },
+          {
+            "bytes": [
+              110
+            ],
+            "text": "n"
+          },
+          {
+            "bytes": [
+              115,
+              32
+            ],
+            "text": "s␠"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              110
+            ],
+            "text": "n"
+          },
+          {
+            "bytes": [
+              116,
+              111
+            ],
+            "text": "to"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110
+            ],
+            "text": "token"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              100
+            ],
+            "text": "d"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          },
+          {
+            "bytes": [
+              46
+            ],
+            "text": "."
+          }
+        ]
+      },
+      {
+        "category": "rare",
+        "characters": 58,
+        "utf8_bytes": 58,
+        "tokens": 50,
+        "tokens_per_char": 0.8621,
+        "pieces": [
+          {
+            "bytes": [
+              104
+            ],
+            "text": "h"
+          },
+          {
+            "bytes": [
+              121
+            ],
+            "text": "y"
+          },
+          {
+            "bytes": [
+              112
+            ],
+            "text": "p"
+          },
+          {
+            "bytes": [
+              101,
+              114
+            ],
+            "text": "er"
+          },
+          {
+            "bytes": [
+              109
+            ],
+            "text": "m"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              99
+            ],
+            "text": "c"
+          },
+          {
+            "bytes": [
+              114
+            ],
+            "text": "r"
+          },
+          {
+            "bytes": [
+              111
+            ],
+            "text": "o"
+          },
+          {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110,
+              105
+            ],
+            "text": "tokeni"
+          },
+          {
+            "bytes": [
+              122
+            ],
+            "text": "z"
+          },
+          {
+            "bytes": [
+              97,
+              116
+            ],
+            "text": "at"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              111
+            ],
+            "text": "o"
+          },
+          {
+            "bytes": [
+              110
+            ],
+            "text": "n"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              110
+            ],
+            "text": "n"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              100
+            ],
+            "text": "d"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              98
+            ],
+            "text": "b"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          },
+          {
+            "bytes": [
+              104
+            ],
+            "text": "h"
+          },
+          {
+            "bytes": [
+              109
+            ],
+            "text": "m"
+          },
+          {
+            "bytes": [
+              101,
+              110
+            ],
+            "text": "en"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              114
+            ],
+            "text": "r"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              110
+            ],
+            "text": "n"
+          },
+          {
+            "bytes": [
+              45
+            ],
+            "text": "-"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          },
+          {
+            "bytes": [
+              104
+            ],
+            "text": "h"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              119
+            ],
+            "text": "w"
+          },
+          {
+            "bytes": [
+              111
+            ],
+            "text": "o"
+          },
+          {
+            "bytes": [
+              114
+            ],
+            "text": "r"
+          },
+          {
+            "bytes": [
+              100
+            ],
+            "text": "d"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          }
+        ]
+      },
+      {
+        "category": "code",
+        "characters": 52,
+        "utf8_bytes": 52,
+        "tokens": 46,
+        "tokens_per_char": 0.8846,
+        "pieces": [
+          {
+            "bytes": [
+              100
+            ],
+            "text": "d"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              102
+            ],
+            "text": "f"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110,
+              105
+            ],
+            "text": "tokeni"
+          },
+          {
+            "bytes": [
+              122
+            ],
+            "text": "z"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              40
+            ],
+            "text": "("
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              41
+            ],
+            "text": ")"
+          },
+          {
+            "bytes": [
+              58
+            ],
+            "text": ":"
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              114
+            ],
+            "text": "r"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              117
+            ],
+            "text": "u"
+          },
+          {
+            "bytes": [
+              114
+            ],
+            "text": "r"
+          },
+          {
+            "bytes": [
+              110
+            ],
+            "text": "n"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              46
+            ],
+            "text": "."
+          },
+          {
+            "bytes": [
+              101,
+              110
+            ],
+            "text": "en"
+          },
+          {
+            "bytes": [
+              99
+            ],
+            "text": "c"
+          },
+          {
+            "bytes": [
+              111
+            ],
+            "text": "o"
+          },
+          {
+            "bytes": [
+              100
+            ],
+            "text": "d"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              40
+            ],
+            "text": "("
+          },
+          {
+            "bytes": [
+              39
+            ],
+            "text": "'"
+          },
+          {
+            "bytes": [
+              117
+            ],
+            "text": "u"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              102
+            ],
+            "text": "f"
+          },
+          {
+            "bytes": [
+              45
+            ],
+            "text": "-"
+          },
+          {
+            "bytes": [
+              56
+            ],
+            "text": "8"
+          },
+          {
+            "bytes": [
+              39
+            ],
+            "text": "'"
+          },
+          {
+            "bytes": [
+              41
+            ],
+            "text": ")"
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          }
+        ]
+      },
+      {
+        "category": "math",
+        "characters": 40,
+        "utf8_bytes": 40,
+        "tokens": 40,
+        "tokens_per_char": 1.0,
+        "pieces": [
+          {
+            "bytes": [
+              102
+            ],
+            "text": "f"
+          },
+          {
+            "bytes": [
+              40
+            ],
+            "text": "("
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              41
+            ],
+            "text": ")"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              61
+            ],
+            "text": "="
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              94
+            ],
+            "text": "^"
+          },
+          {
+            "bytes": [
+              50
+            ],
+            "text": "2"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              43
+            ],
+            "text": "+"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              50
+            ],
+            "text": "2"
+          },
+          {
+            "bytes": [
+              42
+            ],
+            "text": "*"
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              43
+            ],
+            "text": "+"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              49
+            ],
+            "text": "1"
+          },
+          {
+            "bytes": [
+              59
+            ],
+            "text": ";"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          },
+          {
+            "bytes": [
+              117
+            ],
+            "text": "u"
+          },
+          {
+            "bytes": [
+              109
+            ],
+            "text": "m"
+          },
+          {
+            "bytes": [
+              95
+            ],
+            "text": "_"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              112
+            ],
+            "text": "p"
+          },
+          {
+            "bytes": [
+              95
+            ],
+            "text": "_"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              111
+            ],
+            "text": "o"
+          },
+          {
+            "bytes": [
+              103
+            ],
+            "text": "g"
+          },
+          {
+            "bytes": [
+              40
+            ],
+            "text": "("
+          },
+          {
+            "bytes": [
+              112
+            ],
+            "text": "p"
+          },
+          {
+            "bytes": [
+              95
+            ],
+            "text": "_"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              41
+            ],
+            "text": ")"
+          }
+        ]
+      },
+      {
+        "category": "emoji",
+        "characters": 33,
+        "utf8_bytes": 42,
+        "tokens": 34,
+        "tokens_per_char": 1.0303,
+        "pieces": [
+          {
+            "bytes": [
+              73
+            ],
+            "text": "I"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              107
+            ],
+            "text": "k"
+          },
+          {
+            "bytes": [
+              101,
+              32
+            ],
+            "text": "e␠"
+          },
+          {
+            "bytes": [
+              99
+            ],
+            "text": "c"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              110
+            ],
+            "text": "n"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110,
+              105
+            ],
+            "text": "tokeni"
+          },
+          {
+            "bytes": [
+              122
+            ],
+            "text": "z"
+          },
+          {
+            "bytes": [
+              101,
+              114
+            ],
+            "text": "er"
+          },
+          {
+            "bytes": [
+              115,
+              32
+            ],
+            "text": "s␠"
+          },
+          {
+            "bytes": [
+              226
+            ],
+            "text": "0xe2"
+          },
+          {
+            "bytes": [
+              156
+            ],
+            "text": "0x9c"
+          },
+          {
+            "bytes": [
+              168
+            ],
+            "text": "0xa8"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              99
+            ],
+            "text": "c"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              102
+            ],
+            "text": "f"
+          },
+          {
+            "bytes": [
+              195
+            ],
+            "text": "0xc3"
+          },
+          {
+            "bytes": [
+              169
+            ],
+            "text": "0xa9"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              240
+            ],
+            "text": "0xf0"
+          },
+          {
+            "bytes": [
+              159
+            ],
+            "text": "0x9f"
+          },
+          {
+            "bytes": [
+              145
+            ],
+            "text": "0x91"
+          },
+          {
+            "bytes": [
+              139
+            ],
+            "text": "0x8b"
+          },
+          {
+            "bytes": [
+              240
+            ],
+            "text": "0xf0"
+          },
+          {
+            "bytes": [
+              159
+            ],
+            "text": "0x9f"
+          },
+          {
+            "bytes": [
+              143
+            ],
+            "text": "0x8f"
+          },
+          {
+            "bytes": [
+              189
+            ],
+            "text": "0xbd"
+          }
+        ]
+      },
+      {
+        "category": "multilingual",
+        "characters": 31,
+        "utf8_bytes": 64,
+        "tokens": 64,
+        "tokens_per_char": 2.0645,
+        "pieces": [
+          {
+            "bytes": [
+              72
+            ],
+            "text": "H"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              111
+            ],
+            "text": "o"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              164
+            ],
+            "text": "0xa4"
+          },
+          {
+            "bytes": [
+              168
+            ],
+            "text": "0xa8"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              164
+            ],
+            "text": "0xa4"
+          },
+          {
+            "bytes": [
+              174
+            ],
+            "text": "0xae"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              164
+            ],
+            "text": "0xa4"
+          },
+          {
+            "bytes": [
+              184
+            ],
+            "text": "0xb8"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              165
+            ],
+            "text": "0xa5"
+          },
+          {
+            "bytes": [
+              141
+            ],
+            "text": "0x8d"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              164
+            ],
+            "text": "0xa4"
+          },
+          {
+            "bytes": [
+              164
+            ],
+            "text": "0xa4"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              165
+            ],
+            "text": "0xa5"
+          },
+          {
+            "bytes": [
+              135
+            ],
+            "text": "0x87"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              227
+            ],
+            "text": "0xe3"
+          },
+          {
+            "bytes": [
+              129
+            ],
+            "text": "0x81"
+          },
+          {
+            "bytes": [
+              147
+            ],
+            "text": "0x93"
+          },
+          {
+            "bytes": [
+              227
+            ],
+            "text": "0xe3"
+          },
+          {
+            "bytes": [
+              130
+            ],
+            "text": "0x82"
+          },
+          {
+            "bytes": [
+              147
+            ],
+            "text": "0x93"
+          },
+          {
+            "bytes": [
+              227
+            ],
+            "text": "0xe3"
+          },
+          {
+            "bytes": [
+              129
+            ],
+            "text": "0x81"
+          },
+          {
+            "bytes": [
+              171
+            ],
+            "text": "0xab"
+          },
+          {
+            "bytes": [
+              227
+            ],
+            "text": "0xe3"
+          },
+          {
+            "bytes": [
+              129
+            ],
+            "text": "0x81"
+          },
+          {
+            "bytes": [
+              161
+            ],
+            "text": "0xa1"
+          },
+          {
+            "bytes": [
+              227
+            ],
+            "text": "0xe3"
+          },
+          {
+            "bytes": [
+              129
+            ],
+            "text": "0x81"
+          },
+          {
+            "bytes": [
+              175
+            ],
+            "text": "0xaf"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              217
+            ],
+            "text": "0xd9"
+          },
+          {
+            "bytes": [
+              133
+            ],
+            "text": "0x85"
+          },
+          {
+            "bytes": [
+              216
+            ],
+            "text": "0xd8"
+          },
+          {
+            "bytes": [
+              177
+            ],
+            "text": "0xb1"
+          },
+          {
+            "bytes": [
+              216
+            ],
+            "text": "0xd8"
+          },
+          {
+            "bytes": [
+              173
+            ],
+            "text": "0xad"
+          },
+          {
+            "bytes": [
+              216
+            ],
+            "text": "0xd8"
+          },
+          {
+            "bytes": [
+              168
+            ],
+            "text": "0xa8"
+          },
+          {
+            "bytes": [
+              216
+            ],
+            "text": "0xd8"
+          },
+          {
+            "bytes": [
+              167
+            ],
+            "text": "0xa7"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              208
+            ],
+            "text": "0xd0"
+          },
+          {
+            "bytes": [
+              159
+            ],
+            "text": "0x9f"
+          },
+          {
+            "bytes": [
+              209
+            ],
+            "text": "0xd1"
+          },
+          {
+            "bytes": [
+              128
+            ],
+            "text": "0x80"
+          },
+          {
+            "bytes": [
+              208
+            ],
+            "text": "0xd0"
+          },
+          {
+            "bytes": [
+              184
+            ],
+            "text": "0xb8"
+          },
+          {
+            "bytes": [
+              208
+            ],
+            "text": "0xd0"
+          },
+          {
+            "bytes": [
+              178
+            ],
+            "text": "0xb2"
+          },
+          {
+            "bytes": [
+              208
+            ],
+            "text": "0xd0"
+          },
+          {
+            "bytes": [
+              181
+            ],
+            "text": "0xb5"
+          },
+          {
+            "bytes": [
+              209
+            ],
+            "text": "0xd1"
+          },
+          {
+            "bytes": [
+              130
+            ],
+            "text": "0x82"
+          }
+        ]
+      }
+    ]
+  },
+  "large_vocab": {
+    "vocab_size": 305,
+    "rows": [
+      {
+        "category": "common",
+        "characters": 39,
+        "utf8_bytes": 39,
+        "tokens": 16,
+        "tokens_per_char": 0.4103,
+        "pieces": [
+          {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110,
+              105,
+              122,
+              97,
+              116,
+              105,
+              111,
+              110,
+              32
+            ],
+            "text": "tokenization␠"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              117
+            ],
+            "text": "u"
+          },
+          {
+            "bytes": [
+              114,
+              110,
+              115,
+              32
+            ],
+            "text": "rns␠"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              116,
+              32
+            ],
+            "text": "t␠"
+          },
+          {
+            "bytes": [
+              105,
+              110
+            ],
+            "text": "in"
+          },
+          {
+            "bytes": [
+              116,
+              111
+            ],
+            "text": "to"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110
+            ],
+            "text": "token"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              100
+            ],
+            "text": "d"
+          },
+          {
+            "bytes": [
+              115,
+              46
+            ],
+            "text": "s."
+          }
+        ]
+      },
+      {
+        "category": "rare",
+        "characters": 58,
+        "utf8_bytes": 58,
+        "tokens": 43,
+        "tokens_per_char": 0.7414,
+        "pieces": [
+          {
+            "bytes": [
+              104
+            ],
+            "text": "h"
+          },
+          {
+            "bytes": [
+              121
+            ],
+            "text": "y"
+          },
+          {
+            "bytes": [
+              112
+            ],
+            "text": "p"
+          },
+          {
+            "bytes": [
+              101,
+              114
+            ],
+            "text": "er"
+          },
+          {
+            "bytes": [
+              109
+            ],
+            "text": "m"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              99
+            ],
+            "text": "c"
+          },
+          {
+            "bytes": [
+              114
+            ],
+            "text": "r"
+          },
+          {
+            "bytes": [
+              111
+            ],
+            "text": "o"
+          },
+          {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110,
+              105,
+              122,
+              97,
+              116,
+              105,
+              111,
+              110,
+              32
+            ],
+            "text": "tokenization␠"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              110
+            ],
+            "text": "n"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              100
+            ],
+            "text": "d"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              115,
+              101
+            ],
+            "text": "se"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              98
+            ],
+            "text": "b"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          },
+          {
+            "bytes": [
+              104
+            ],
+            "text": "h"
+          },
+          {
+            "bytes": [
+              109
+            ],
+            "text": "m"
+          },
+          {
+            "bytes": [
+              101,
+              110
+            ],
+            "text": "en"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              114
+            ],
+            "text": "r"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              110
+            ],
+            "text": "n"
+          },
+          {
+            "bytes": [
+              45
+            ],
+            "text": "-"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          },
+          {
+            "bytes": [
+              104
+            ],
+            "text": "h"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              119
+            ],
+            "text": "w"
+          },
+          {
+            "bytes": [
+              111
+            ],
+            "text": "o"
+          },
+          {
+            "bytes": [
+              114
+            ],
+            "text": "r"
+          },
+          {
+            "bytes": [
+              100
+            ],
+            "text": "d"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          }
+        ]
+      },
+      {
+        "category": "code",
+        "characters": 52,
+        "utf8_bytes": 52,
+        "tokens": 42,
+        "tokens_per_char": 0.8077,
+        "pieces": [
+          {
+            "bytes": [
+              100
+            ],
+            "text": "d"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              102
+            ],
+            "text": "f"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110,
+              105,
+              122
+            ],
+            "text": "tokeniz"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              40
+            ],
+            "text": "("
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              41
+            ],
+            "text": ")"
+          },
+          {
+            "bytes": [
+              58
+            ],
+            "text": ":"
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              114,
+              101
+            ],
+            "text": "re"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              117
+            ],
+            "text": "u"
+          },
+          {
+            "bytes": [
+              114,
+              110
+            ],
+            "text": "rn"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              46
+            ],
+            "text": "."
+          },
+          {
+            "bytes": [
+              101,
+              110
+            ],
+            "text": "en"
+          },
+          {
+            "bytes": [
+              99,
+              111
+            ],
+            "text": "co"
+          },
+          {
+            "bytes": [
+              100
+            ],
+            "text": "d"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              40
+            ],
+            "text": "("
+          },
+          {
+            "bytes": [
+              39
+            ],
+            "text": "'"
+          },
+          {
+            "bytes": [
+              117
+            ],
+            "text": "u"
+          },
+          {
+            "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          {
+            "bytes": [
+              102
+            ],
+            "text": "f"
+          },
+          {
+            "bytes": [
+              45
+            ],
+            "text": "-"
+          },
+          {
+            "bytes": [
+              56
+            ],
+            "text": "8"
+          },
+          {
+            "bytes": [
+              39
+            ],
+            "text": "'"
+          },
+          {
+            "bytes": [
+              41
+            ],
+            "text": ")"
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          }
+        ]
+      },
+      {
+        "category": "math",
+        "characters": 40,
+        "utf8_bytes": 40,
+        "tokens": 39,
+        "tokens_per_char": 0.975,
+        "pieces": [
+          {
+            "bytes": [
+              102
+            ],
+            "text": "f"
+          },
+          {
+            "bytes": [
+              40
+            ],
+            "text": "("
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              41
+            ],
+            "text": ")"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              61
+            ],
+            "text": "="
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              94,
+              50
+            ],
+            "text": "^2"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              43
+            ],
+            "text": "+"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              50
+            ],
+            "text": "2"
+          },
+          {
+            "bytes": [
+              42
+            ],
+            "text": "*"
+          },
+          {
+            "bytes": [
+              120
+            ],
+            "text": "x"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              43
+            ],
+            "text": "+"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              49
+            ],
+            "text": "1"
+          },
+          {
+            "bytes": [
+              59
+            ],
+            "text": ";"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              115
+            ],
+            "text": "s"
+          },
+          {
+            "bytes": [
+              117
+            ],
+            "text": "u"
+          },
+          {
+            "bytes": [
+              109
+            ],
+            "text": "m"
+          },
+          {
+            "bytes": [
+              95
+            ],
+            "text": "_"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              112
+            ],
+            "text": "p"
+          },
+          {
+            "bytes": [
+              95
+            ],
+            "text": "_"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              111
+            ],
+            "text": "o"
+          },
+          {
+            "bytes": [
+              103
+            ],
+            "text": "g"
+          },
+          {
+            "bytes": [
+              40
+            ],
+            "text": "("
+          },
+          {
+            "bytes": [
+              112
+            ],
+            "text": "p"
+          },
+          {
+            "bytes": [
+              95
+            ],
+            "text": "_"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              41
+            ],
+            "text": ")"
+          }
+        ]
+      },
+      {
+        "category": "emoji",
+        "characters": 33,
+        "utf8_bytes": 42,
+        "tokens": 32,
+        "tokens_per_char": 0.9697,
+        "pieces": [
+          {
+            "bytes": [
+              73
+            ],
+            "text": "I"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              105
+            ],
+            "text": "i"
+          },
+          {
+            "bytes": [
+              107
+            ],
+            "text": "k"
+          },
+          {
+            "bytes": [
+              101,
+              32
+            ],
+            "text": "e␠"
+          },
+          {
+            "bytes": [
+              99
+            ],
+            "text": "c"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              110
+            ],
+            "text": "n"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110,
+              105,
+              122,
+              101,
+              114
+            ],
+            "text": "tokenizer"
+          },
+          {
+            "bytes": [
+              115,
+              32
+            ],
+            "text": "s␠"
+          },
+          {
+            "bytes": [
+              226
+            ],
+            "text": "0xe2"
+          },
+          {
+            "bytes": [
+              156
+            ],
+            "text": "0x9c"
+          },
+          {
+            "bytes": [
+              168
+            ],
+            "text": "0xa8"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              99
+            ],
+            "text": "c"
+          },
+          {
+            "bytes": [
+              97
+            ],
+            "text": "a"
+          },
+          {
+            "bytes": [
+              102
+            ],
+            "text": "f"
+          },
+          {
+            "bytes": [
+              195
+            ],
+            "text": "0xc3"
+          },
+          {
+            "bytes": [
+              169
+            ],
+            "text": "0xa9"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              240
+            ],
+            "text": "0xf0"
+          },
+          {
+            "bytes": [
+              159
+            ],
+            "text": "0x9f"
+          },
+          {
+            "bytes": [
+              145
+            ],
+            "text": "0x91"
+          },
+          {
+            "bytes": [
+              139
+            ],
+            "text": "0x8b"
+          },
+          {
+            "bytes": [
+              240
+            ],
+            "text": "0xf0"
+          },
+          {
+            "bytes": [
+              159
+            ],
+            "text": "0x9f"
+          },
+          {
+            "bytes": [
+              143
+            ],
+            "text": "0x8f"
+          },
+          {
+            "bytes": [
+              189
+            ],
+            "text": "0xbd"
+          }
+        ]
+      },
+      {
+        "category": "multilingual",
+        "characters": 31,
+        "utf8_bytes": 64,
+        "tokens": 64,
+        "tokens_per_char": 2.0645,
+        "pieces": [
+          {
+            "bytes": [
+              72
+            ],
+            "text": "H"
+          },
+          {
+            "bytes": [
+              101
+            ],
+            "text": "e"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              108
+            ],
+            "text": "l"
+          },
+          {
+            "bytes": [
+              111
+            ],
+            "text": "o"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              164
+            ],
+            "text": "0xa4"
+          },
+          {
+            "bytes": [
+              168
+            ],
+            "text": "0xa8"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              164
+            ],
+            "text": "0xa4"
+          },
+          {
+            "bytes": [
+              174
+            ],
+            "text": "0xae"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              164
+            ],
+            "text": "0xa4"
+          },
+          {
+            "bytes": [
+              184
+            ],
+            "text": "0xb8"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              165
+            ],
+            "text": "0xa5"
+          },
+          {
+            "bytes": [
+              141
+            ],
+            "text": "0x8d"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              164
+            ],
+            "text": "0xa4"
+          },
+          {
+            "bytes": [
+              164
+            ],
+            "text": "0xa4"
+          },
+          {
+            "bytes": [
+              224
+            ],
+            "text": "0xe0"
+          },
+          {
+            "bytes": [
+              165
+            ],
+            "text": "0xa5"
+          },
+          {
+            "bytes": [
+              135
+            ],
+            "text": "0x87"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              227
+            ],
+            "text": "0xe3"
+          },
+          {
+            "bytes": [
+              129
+            ],
+            "text": "0x81"
+          },
+          {
+            "bytes": [
+              147
+            ],
+            "text": "0x93"
+          },
+          {
+            "bytes": [
+              227
+            ],
+            "text": "0xe3"
+          },
+          {
+            "bytes": [
+              130
+            ],
+            "text": "0x82"
+          },
+          {
+            "bytes": [
+              147
+            ],
+            "text": "0x93"
+          },
+          {
+            "bytes": [
+              227
+            ],
+            "text": "0xe3"
+          },
+          {
+            "bytes": [
+              129
+            ],
+            "text": "0x81"
+          },
+          {
+            "bytes": [
+              171
+            ],
+            "text": "0xab"
+          },
+          {
+            "bytes": [
+              227
+            ],
+            "text": "0xe3"
+          },
+          {
+            "bytes": [
+              129
+            ],
+            "text": "0x81"
+          },
+          {
+            "bytes": [
+              161
+            ],
+            "text": "0xa1"
+          },
+          {
+            "bytes": [
+              227
+            ],
+            "text": "0xe3"
+          },
+          {
+            "bytes": [
+              129
+            ],
+            "text": "0x81"
+          },
+          {
+            "bytes": [
+              175
+            ],
+            "text": "0xaf"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              217
+            ],
+            "text": "0xd9"
+          },
+          {
+            "bytes": [
+              133
+            ],
+            "text": "0x85"
+          },
+          {
+            "bytes": [
+              216
+            ],
+            "text": "0xd8"
+          },
+          {
+            "bytes": [
+              177
+            ],
+            "text": "0xb1"
+          },
+          {
+            "bytes": [
+              216
+            ],
+            "text": "0xd8"
+          },
+          {
+            "bytes": [
+              173
+            ],
+            "text": "0xad"
+          },
+          {
+            "bytes": [
+              216
+            ],
+            "text": "0xd8"
+          },
+          {
+            "bytes": [
+              168
+            ],
+            "text": "0xa8"
+          },
+          {
+            "bytes": [
+              216
+            ],
+            "text": "0xd8"
+          },
+          {
+            "bytes": [
+              167
+            ],
+            "text": "0xa7"
+          },
+          {
+            "bytes": [
+              32
+            ],
+            "text": "␠"
+          },
+          {
+            "bytes": [
+              208
+            ],
+            "text": "0xd0"
+          },
+          {
+            "bytes": [
+              159
+            ],
+            "text": "0x9f"
+          },
+          {
+            "bytes": [
+              209
+            ],
+            "text": "0xd1"
+          },
+          {
+            "bytes": [
+              128
+            ],
+            "text": "0x80"
+          },
+          {
+            "bytes": [
+              208
+            ],
+            "text": "0xd0"
+          },
+          {
+            "bytes": [
+              184
+            ],
+            "text": "0xb8"
+          },
+          {
+            "bytes": [
+              208
+            ],
+            "text": "0xd0"
+          },
+          {
+            "bytes": [
+              178
+            ],
+            "text": "0xb2"
+          },
+          {
+            "bytes": [
+              208
+            ],
+            "text": "0xd0"
+          },
+          {
+            "bytes": [
+              181
+            ],
+            "text": "0xb5"
+          },
+          {
+            "bytes": [
+              209
+            ],
+            "text": "0xd1"
+          },
+          {
+            "bytes": [
+              130
+            ],
+            "text": "0x82"
+          }
+        ]
+      }
+    ]
+  }
+}
