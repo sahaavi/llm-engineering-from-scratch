@@ -1,6 +1,6 @@
 # 01. Tokenizer From Scratch
 
-Build a tiny byte-level BPE tokenizer from scratch, use it on real text, plot what it changes, break it on awkward inputs, and export an interactive trace for the portfolio demo.
+A tiny byte-level BPE tokenizer from scratch with deterministic artifacts: charts, stress cases, preview media, and a static interactive trace.
 
 ## Hard Concept
 
@@ -23,14 +23,15 @@ That command prints a demo and writes deterministic artifacts under `artifacts/`
 - `token_length_distribution.png`: byte length distribution of learned token pieces
 - `failure_gallery.md`: weird-input examples and what broke or survived
 - `preview.png` / `preview.gif`: lightweight visual previews
+- `widget/`: static BPE Merge Microscope demo source
 
-## What To Look For
+## Results
 
 - Repeated training text collapses into longer pieces.
 - Rare words still round-trip because byte-level fallback never loses information.
 - Unicode can decode correctly even when individual byte-level pieces look strange.
 - Larger vocabularies reduce token count on familiar patterns, but they do not magically understand every new input.
 
-## Portfolio Handoff
+## Related Writing
 
-The polished blog post should embed the BPE Merge Microscope widget and use this project as the runnable source.
+- [Tokenizer From Scratch: BPE as Learned Compression](https://avisheksaha.com/posts/llm-engineering-from-scratch-tokenizer/)
