@@ -7,3 +7,6 @@ venv/
 
 # Local planning and continuation notes. Keep these private.
 /plans/
+
+# Local git worktrees used for isolated implementation work.
+/.worktrees/
