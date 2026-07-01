@@ -6,6 +6,10 @@ import json
 import struct
 import zlib
 
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
 from tokenizer import BPETokenizer
 
 
@@ -110,28 +114,57 @@ def draw_rect(
             pixels[offset : offset + 3] = bytes(color)
 
 
-def draw_bar_chart(path: Path, values: list[float], colors: list[tuple[int, int, int]]) -> None:
-    width, height = 900, 420
-    pixels = make_canvas(width, height, (250, 252, 255))
-    draw_rect(pixels, width, height, 55, 40, 60, 360, (42, 54, 71))
-    draw_rect(pixels, width, height, 55, 355, 850, 360, (42, 54, 71))
-    max_value = max(values) if values else 1.0
-    gap = 24
-    bar_width = max(24, (760 - gap * (len(values) - 1)) // max(1, len(values)))
-    for index, value in enumerate(values):
-        x0 = 80 + index * (bar_width + gap)
-        x1 = x0 + bar_width
-        bar_height = int((value / max_value) * 280)
-        y0 = 355 - bar_height
-        draw_rect(pixels, width, height, x0, y0, x1, 355, colors[index % len(colors)])
-    write_png(path, width, height, pixels)
+def draw_comparison_chart(
+    path: Path,
+    small_rows: list[dict[str, object]],
+    large_rows: list[dict[str, object]],
+) -> None:
+    labels = [str(row["category"]).replace("-", "\n") for row in large_rows]
+    small_values = [float(row["tokens_per_char"]) for row in small_rows]
+    large_values = [float(row["tokens_per_char"]) for row in large_rows]
+    positions = list(range(len(labels)))
+    width = 0.38
+
+    fig, ax = plt.subplots(figsize=(9, 4.2))
+    ax.bar(
+        [position - width / 2 for position in positions],
+        small_values,
+        width=width,
+        label="Smaller vocab (265)",
+        color="#1f77b4",
+    )
+    ax.bar(
+        [position + width / 2 for position in positions],
+        large_values,
+        width=width,
+        label="Larger vocab (305)",
+        color="#2e8b57",
+    )
+    ax.set_title("Same examples under two vocabulary sizes")
+    ax.set_ylabel("Tokens per character")
+    ax.set_xticks(positions, labels)
+    ax.grid(axis="y", alpha=0.25)
+    ax.legend()
+    fig.tight_layout()
+    fig.savefig(path, dpi=120)
+    plt.close(fig)
 
 
 def draw_histogram(path: Path, values: list[int]) -> None:
     counts = Counter(values)
     bins = list(range(1, max(counts, default=1) + 1))
     chart_values = [counts[value] for value in bins]
-    draw_bar_chart(path, chart_values, [(11, 107, 87), (23, 105, 170), (138, 90, 0)])
+
+    fig, ax = plt.subplots(figsize=(9, 4.2))
+    ax.bar(bins, chart_values, color="#b36a00", width=0.65)
+    ax.set_title("Learned token piece lengths")
+    ax.set_xlabel("Bytes in token piece")
+    ax.set_ylabel("Count")
+    ax.set_xticks(bins)
+    ax.grid(axis="y", alpha=0.25)
+    fig.tight_layout()
+    fig.savefig(path, dpi=120)
+    plt.close(fig)
 
 
 def write_preview(path: Path) -> None:
@@ -301,10 +334,10 @@ def build_artifacts(
     write_json(widget_data_path, trace_data)
 
     write_failure_gallery(artifacts_dir / "failure_gallery.md", large_rows)
-    draw_bar_chart(
+    draw_comparison_chart(
         artifacts_dir / "compression_ratio.png",
-        [float(row["tokens_per_char"]) for row in large_rows],
-        [(23, 105, 170), (11, 107, 87), (138, 90, 0)],
+        small_rows,
+        large_rows,
     )
     token_lengths = [
         len(bytes(piece["bytes"]))
