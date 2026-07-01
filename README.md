@@ -1,18 +1,10 @@
 # LLM Engineering From Scratch
 
-This is a project-first learning series for rebuilding the most important pieces of the LLM stack from first principles.
+A project-first series for rebuilding core LLM mechanics from first principles with small runnable implementations, plots, stress cases, and interactive artifacts.
 
-The loop for every project is:
+Roadmap inspiration: [Ahmad Osman](https://x.com/TheAhmadOsman) ([@TheAhmadOsman](https://x.com/TheAhmadOsman)) and his article, ["Step-By-Step LLM Engineering Projects (2026 Edition)"](https://x.com/TheAhmadOsman/article/2058745340895870985). This repository uses the article as a roadmap reference; the implementations, experiments, and artifacts are independent.
 
-1. Build it.
-2. Plot it.
-3. Break it.
-4. Explain it.
-5. Ship the artifact.
-
-The roadmap is inspired by Ahmad Osman's article, "Step-By-Step LLM Engineering Projects (2026 Edition)." The article is used as inspiration and is not copied into this repository.
-
-## First Wave
+## Roadmap
 
 | # | Project | Hard concept |
 |---:|---|---|
@@ -29,7 +21,7 @@ The roadmap is inspired by Ahmad Osman's article, "Step-By-Step LLM Engineering 
 
 | Project | Status | Run |
 |---|---|---|
-| [01-tokenizer-from-scratch](projects/01-tokenizer-from-scratch/) | First build | `python projects/01-tokenizer-from-scratch/main.py` |
+| [01-tokenizer-from-scratch](projects/01-tokenizer-from-scratch/) | Implemented | `python projects/01-tokenizer-from-scratch/main.py` |
 
 ## Repository Pattern
 
@@ -40,9 +32,9 @@ projects/<number>-<name>/
   README.md
   main.py
   lab.ipynb
-  notes.md
-  writeup.md
+  requirements.txt
+  widget/
   artifacts/
 ```
 
-`main.py` is the clean scratch implementation. The notebook is the workshop. `artifacts/` contains plots, traces, failure galleries, and preview media used by the blog post.
+`main.py` is the clean scratch implementation. The notebook is the workshop version. `widget/` contains static interactive demo code. `artifacts/` contains plots, traces, failure galleries, and preview media used by public demos and articles.
