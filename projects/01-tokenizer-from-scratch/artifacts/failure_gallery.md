@@ -8,11 +8,11 @@ These examples are called failures because they stress compression, not because 
 
 - UTF-8 bytes: 39
 
-- Tokens: 16
+- Tokens: 17
 
-- Tokens per character: 0.4103
+- Tokens per character: 0.4359
 
-- Token pieces: `tokenization␠ | t | u | rns␠ | t | e | x | t␠ | in | to | ␠ | token | ␠ | i | d | s.`
+- Token pieces: `tokenization␠ | t | u | rns␠ | t | e | x | t␠ | in | to | ␠ | token | ␠ | i | d | s | .`
 
 ## rare
 

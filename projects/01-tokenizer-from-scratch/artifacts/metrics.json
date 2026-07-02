@@ -6,8 +6,8 @@
         "category": "common",
         "characters": 39,
         "utf8_bytes": 39,
-        "tokens": 27,
-        "tokens_per_char": 0.6923,
+        "tokens": 28,
+        "tokens_per_char": 0.7179,
         "pieces": [
           {
             "bytes": [
@@ -15,10 +15,15 @@
               111,
               107,
               101,
-              110,
+              110
+            ],
+            "text": "token"
+          },
+          {
+            "bytes": [
               105
             ],
-            "text": "tokeni"
+            "text": "i"
           },
           {
             "bytes": [
@@ -189,8 +194,8 @@
         "category": "rare",
         "characters": 58,
         "utf8_bytes": 58,
-        "tokens": 50,
-        "tokens_per_char": 0.8621,
+        "tokens": 51,
+        "tokens_per_char": 0.8793,
         "pieces": [
           {
             "bytes": [
@@ -253,10 +258,15 @@
               111,
               107,
               101,
-              110,
+              110
+            ],
+            "text": "token"
+          },
+          {
+            "bytes": [
               105
             ],
-            "text": "tokeni"
+            "text": "i"
           },
           {
             "bytes": [
@@ -506,8 +516,8 @@
         "category": "code",
         "characters": 52,
         "utf8_bytes": 52,
-        "tokens": 46,
-        "tokens_per_char": 0.8846,
+        "tokens": 47,
+        "tokens_per_char": 0.9038,
         "pieces": [
           {
             "bytes": [
@@ -539,10 +549,15 @@
               111,
               107,
               101,
-              110,
+              110
+            ],
+            "text": "token"
+          },
+          {
+            "bytes": [
               105
             ],
-            "text": "tokeni"
+            "text": "i"
           },
           {
             "bytes": [
@@ -1046,8 +1061,8 @@
         "category": "emoji",
         "characters": 33,
         "utf8_bytes": 42,
-        "tokens": 34,
-        "tokens_per_char": 1.0303,
+        "tokens": 35,
+        "tokens_per_char": 1.0606,
         "pieces": [
           {
             "bytes": [
@@ -1128,10 +1143,15 @@
               111,
               107,
               101,
-              110,
+              110
+            ],
+            "text": "token"
+          },
+          {
+            "bytes": [
               105
             ],
-            "text": "tokeni"
+            "text": "i"
           },
           {
             "bytes": [
@@ -1665,8 +1685,8 @@
         "category": "common",
         "characters": 39,
         "utf8_bytes": 39,
-        "tokens": 16,
-        "tokens_per_char": 0.4103,
+        "tokens": 17,
+        "tokens_per_char": 0.4359,
         "pieces": [
           {
             "bytes": [
@@ -1782,10 +1802,15 @@
           },
           {
             "bytes": [
-              115,
+              115
+            ],
+            "text": "s"
+          },
+          {
+            "bytes": [
               46
             ],
-            "text": "s."
+            "text": "."
           }
         ]
       },

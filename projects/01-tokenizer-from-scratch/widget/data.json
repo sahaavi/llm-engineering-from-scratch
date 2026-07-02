@@ -254,9 +254,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108
@@ -334,9 +338,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116
@@ -565,9 +573,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -630,9 +642,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116
@@ -782,8 +798,8 @@
       "metrics": {
         "vocab_size": 257,
         "learned_merges": 1,
-        "total_tokens": 47,
-        "compression_ratio": 0.8868
+        "total_tokens": 49,
+        "compression_ratio": 0.8909
       }
     },
     {
@@ -1018,9 +1034,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -1083,9 +1103,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116
@@ -1299,9 +1323,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -1349,9 +1377,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116
@@ -1501,8 +1533,8 @@
       "metrics": {
         "vocab_size": 258,
         "learned_merges": 2,
-        "total_tokens": 41,
-        "compression_ratio": 0.7736
+        "total_tokens": 43,
+        "compression_ratio": 0.7818
       }
     },
     {
@@ -1728,9 +1760,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -1778,9 +1814,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116
@@ -1984,9 +2024,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -2024,9 +2068,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116
@@ -2176,8 +2224,8 @@
       "metrics": {
         "vocab_size": 259,
         "learned_merges": 3,
-        "total_tokens": 37,
-        "compression_ratio": 0.6981
+        "total_tokens": 39,
+        "compression_ratio": 0.7091
       }
     },
     {
@@ -2397,9 +2445,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -2437,9 +2489,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116
@@ -2633,9 +2689,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -2668,9 +2728,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116
@@ -2820,8 +2884,8 @@
       "metrics": {
         "vocab_size": 260,
         "learned_merges": 4,
-        "total_tokens": 34,
-        "compression_ratio": 0.6415
+        "total_tokens": 36,
+        "compression_ratio": 0.6545
       }
     },
     {
@@ -3027,9 +3091,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -3062,9 +3130,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116
@@ -3258,9 +3330,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -3293,9 +3369,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -3430,8 +3510,8 @@
       "metrics": {
         "vocab_size": 261,
         "learned_merges": 5,
-        "total_tokens": 31,
-        "compression_ratio": 0.5849
+        "total_tokens": 33,
+        "compression_ratio": 0.6
       }
     },
     {
@@ -3645,9 +3725,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -3680,9 +3764,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -3861,9 +3949,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -3896,9 +3988,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -4018,8 +4114,8 @@
       "metrics": {
         "vocab_size": 262,
         "learned_merges": 6,
-        "total_tokens": 28,
-        "compression_ratio": 0.5283
+        "total_tokens": 30,
+        "compression_ratio": 0.5455
       }
     },
     {
@@ -4241,9 +4337,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -4276,9 +4376,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -4442,9 +4546,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -4477,9 +4585,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -4584,8 +4696,8 @@
       "metrics": {
         "vocab_size": 263,
         "learned_merges": 7,
-        "total_tokens": 25,
-        "compression_ratio": 0.4717
+        "total_tokens": 27,
+        "compression_ratio": 0.4909
       }
     },
     {
@@ -4811,9 +4923,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -4846,9 +4962,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -4997,9 +5117,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -5032,9 +5156,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -5124,8 +5252,8 @@
       "metrics": {
         "vocab_size": 264,
         "learned_merges": 8,
-        "total_tokens": 22,
-        "compression_ratio": 0.4151
+        "total_tokens": 24,
+        "compression_ratio": 0.4364
       }
     },
     {
@@ -5295,20 +5423,15 @@
         {
           "left": {
             "bytes": [
-              108,
-              111,
-              119
+              116
             ],
-            "text": "low"
+            "text": "t"
           },
           "right": {
             "bytes": [
-              32,
-              108,
-              111,
-              119
+              10
             ],
-            "text": "␠low"
+            "text": "\\n"
           },
           "count": 1
         }
@@ -5360,9 +5483,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -5395,9 +5522,13 @@
               114
             ],
             "text": "r"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -5526,9 +5657,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -5556,9 +5691,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -5648,8 +5787,8 @@
       "metrics": {
         "vocab_size": 265,
         "learned_merges": 9,
-        "total_tokens": 20,
-        "compression_ratio": 0.3774
+        "total_tokens": 22,
+        "compression_ratio": 0.4
       }
     },
     {
@@ -5806,43 +5945,32 @@
         {
           "left": {
             "bytes": [
-              108,
-              111,
-              119
+              116
             ],
-            "text": "low"
+            "text": "t"
           },
           "right": {
             "bytes": [
-              32,
-              108,
-              111,
-              119
+              10
             ],
-            "text": "␠low"
+            "text": "\\n"
           },
           "count": 1
         },
         {
           "left": {
             "bytes": [
-              32,
+              10
+            ],
+            "text": "\\n"
+          },
+          "right": {
+            "bytes": [
               108,
               111,
               119
             ],
-            "text": "␠low"
-          },
-          "right": {
-            "bytes": [
-              32,
-              108,
-              111,
-              119,
-              101,
-              114
-            ],
-            "text": "␠lower"
+            "text": "low"
           },
           "count": 1
         }
@@ -5889,9 +6017,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -5919,9 +6051,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -6050,9 +6186,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -6080,9 +6220,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -6162,8 +6306,8 @@
       "metrics": {
         "vocab_size": 266,
         "learned_merges": 10,
-        "total_tokens": 18,
-        "compression_ratio": 0.3396
+        "total_tokens": 20,
+        "compression_ratio": 0.3636
       }
     },
     {
@@ -6288,6 +6432,38 @@
         {
           "left": {
             "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          "right": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "right": {
+            "bytes": [
+              108,
+              111,
+              119
+            ],
+            "text": "low"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
               108,
               111,
               119
@@ -6325,55 +6501,6 @@
               114
             ],
             "text": "␠lower"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110,
-              32
-            ],
-            "text": "token␠"
-          },
-          "right": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110,
-              32
-            ],
-            "text": "token␠"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110,
-              32
-            ],
-            "text": "token␠"
-          },
-          "right": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110
-            ],
-            "text": "token"
           },
           "count": 1
         }
@@ -6420,9 +6547,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -6450,9 +6581,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -6566,9 +6701,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -6596,9 +6735,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -6678,8 +6821,8 @@
       "metrics": {
         "vocab_size": 267,
         "learned_merges": 11,
-        "total_tokens": 17,
-        "compression_ratio": 0.3208
+        "total_tokens": 19,
+        "compression_ratio": 0.3455
       }
     },
     {
@@ -6795,6 +6938,38 @@
         {
           "left": {
             "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          "right": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "right": {
+            "bytes": [
+              108,
+              111,
+              119
+            ],
+            "text": "low"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
               108,
               111,
               119
@@ -6838,68 +7013,20 @@
         {
           "left": {
             "bytes": [
-              116,
+              32,
+              108,
               111,
-              107,
+              119,
               101,
-              110,
-              32
+              114
             ],
-            "text": "token␠"
+            "text": "␠lower"
           },
           "right": {
             "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110,
-              32
+              10
             ],
-            "text": "token␠"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110,
-              32
-            ],
-            "text": "token␠"
-          },
-          "right": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110
-            ],
-            "text": "token"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110
-            ],
-            "text": "token"
-          },
-          "right": {
-            "bytes": [
-              105
-            ],
-            "text": "i"
+            "text": "\\n"
           },
           "count": 1
         }
@@ -6941,9 +7068,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -6971,9 +7102,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -7082,9 +7217,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -7112,9 +7251,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -7194,8 +7337,8 @@
       "metrics": {
         "vocab_size": 268,
         "learned_merges": 12,
-        "total_tokens": 16,
-        "compression_ratio": 0.3019
+        "total_tokens": 18,
+        "compression_ratio": 0.3273
       }
     },
     {
@@ -7295,6 +7438,38 @@
         {
           "left": {
             "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          "right": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "right": {
+            "bytes": [
+              108,
+              111,
+              119
+            ],
+            "text": "low"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
               108,
               111,
               119
@@ -7338,6 +7513,32 @@
         {
           "left": {
             "bytes": [
+              32,
+              108,
+              111,
+              119,
+              101,
+              114
+            ],
+            "text": "␠lower"
+          },
+          "right": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "right": {
+            "bytes": [
               116,
               111,
               107,
@@ -7346,75 +7547,6 @@
               32
             ],
             "text": "token␠"
-          },
-          "right": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110,
-              32
-            ],
-            "text": "token␠"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110,
-              32
-            ],
-            "text": "token␠"
-          },
-          "right": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110
-            ],
-            "text": "token"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110
-            ],
-            "text": "token"
-          },
-          "right": {
-            "bytes": [
-              105
-            ],
-            "text": "i"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              105
-            ],
-            "text": "i"
-          },
-          "right": {
-            "bytes": [
-              122
-            ],
-            "text": "z"
           },
           "count": 1
         }
@@ -7451,9 +7583,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -7481,9 +7617,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -7587,9 +7727,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -7617,9 +7761,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -7699,8 +7847,8 @@
       "metrics": {
         "vocab_size": 269,
         "learned_merges": 13,
-        "total_tokens": 15,
-        "compression_ratio": 0.283
+        "total_tokens": 17,
+        "compression_ratio": 0.3091
       }
     },
     {
@@ -7788,6 +7936,38 @@
         {
           "left": {
             "bytes": [
+              116
+            ],
+            "text": "t"
+          },
+          "right": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "right": {
+            "bytes": [
+              108,
+              111,
+              119
+            ],
+            "text": "low"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
               108,
               111,
               119
@@ -7831,6 +8011,46 @@
         {
           "left": {
             "bytes": [
+              32,
+              108,
+              111,
+              119,
+              101,
+              114
+            ],
+            "text": "␠lower"
+          },
+          "right": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "right": {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110,
+              32
+            ],
+            "text": "token␠"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
               116,
               111,
               107,
@@ -7850,79 +8070,6 @@
               32
             ],
             "text": "token␠"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110,
-              32
-            ],
-            "text": "token␠"
-          },
-          "right": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110
-            ],
-            "text": "token"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110
-            ],
-            "text": "token"
-          },
-          "right": {
-            "bytes": [
-              105
-            ],
-            "text": "i"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              105
-            ],
-            "text": "i"
-          },
-          "right": {
-            "bytes": [
-              122
-            ],
-            "text": "z"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              122
-            ],
-            "text": "z"
-          },
-          "right": {
-            "bytes": [
-              97
-            ],
-            "text": "a"
           },
           "count": 1
         }
@@ -7954,9 +8101,13 @@
               116
             ],
             "text": "t"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -7984,9 +8135,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -8085,9 +8240,13 @@
               116
             ],
             "text": "low␠lower␠lowest"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -8115,9 +8274,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -8197,8 +8360,8 @@
       "metrics": {
         "vocab_size": 270,
         "learned_merges": 14,
-        "total_tokens": 14,
-        "compression_ratio": 0.2642
+        "total_tokens": 16,
+        "compression_ratio": 0.2909
       }
     },
     {
@@ -8208,18 +8371,28 @@
           "bytes": [
             108,
             111,
-            119
-          ],
-          "text": "low"
-        },
-        {
-          "bytes": [
+            119,
             32,
             108,
             111,
-            119
+            119,
+            101,
+            114,
+            32,
+            108,
+            111,
+            119,
+            101,
+            115,
+            116
           ],
-          "text": "␠low"
+          "text": "low␠lower␠lowest"
+        },
+        {
+          "bytes": [
+            10
+          ],
+          "text": "\\n"
         }
       ],
       "merged_token": {
@@ -8230,12 +8403,69 @@
           32,
           108,
           111,
-          119
+          119,
+          101,
+          114,
+          32,
+          108,
+          111,
+          119,
+          101,
+          115,
+          116,
+          10
         ],
-        "text": "low␠low"
+        "text": "low␠lower␠lowest\\n"
       },
       "frequency": 1,
       "top_pairs": [
+        {
+          "left": {
+            "bytes": [
+              108,
+              111,
+              119,
+              32,
+              108,
+              111,
+              119,
+              101,
+              114,
+              32,
+              108,
+              111,
+              119,
+              101,
+              115,
+              116
+            ],
+            "text": "low␠lower␠lowest"
+          },
+          "right": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "right": {
+            "bytes": [
+              108,
+              111,
+              119
+            ],
+            "text": "low"
+          },
+          "count": 1
+        },
         {
           "left": {
             "bytes": [
@@ -8282,6 +8512,46 @@
         {
           "left": {
             "bytes": [
+              32,
+              108,
+              111,
+              119,
+              101,
+              114
+            ],
+            "text": "␠lower"
+          },
+          "right": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "right": {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110,
+              32
+            ],
+            "text": "token␠"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
               116,
               111,
               107,
@@ -8325,70 +8595,6 @@
               110
             ],
             "text": "token"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              116,
-              111,
-              107,
-              101,
-              110
-            ],
-            "text": "token"
-          },
-          "right": {
-            "bytes": [
-              105
-            ],
-            "text": "i"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              105
-            ],
-            "text": "i"
-          },
-          "right": {
-            "bytes": [
-              122
-            ],
-            "text": "z"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              122
-            ],
-            "text": "z"
-          },
-          "right": {
-            "bytes": [
-              97
-            ],
-            "text": "a"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              97
-            ],
-            "text": "a"
-          },
-          "right": {
-            "bytes": [
-              116
-            ],
-            "text": "t"
           },
           "count": 1
         }
@@ -8415,9 +8621,13 @@
               116
             ],
             "text": "low␠lower␠lowest"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               108,
@@ -8445,9 +8655,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -8543,23 +8757,27 @@
               119,
               101,
               115,
-              116
+              116,
+              10
             ],
-            "text": "low␠lower␠lowest"
-          }
-        ],
-        [
+            "text": "low␠lower␠lowest\\n"
+          },
           {
             "bytes": [
               108,
               111,
-              119,
+              119
+            ],
+            "text": "low"
+          },
+          {
+            "bytes": [
               32,
               108,
               111,
               119
             ],
-            "text": "low␠low"
+            "text": "␠low"
           },
           {
             "bytes": [
@@ -8571,9 +8789,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -8653,8 +8875,8 @@
       "metrics": {
         "vocab_size": 271,
         "learned_merges": 15,
-        "total_tokens": 13,
-        "compression_ratio": 0.2453
+        "total_tokens": 15,
+        "compression_ratio": 0.2727
       }
     },
     {
@@ -8668,20 +8890,27 @@
             32,
             108,
             111,
-            119
-          ],
-          "text": "low␠low"
-        },
-        {
-          "bytes": [
+            119,
+            101,
+            114,
             32,
             108,
             111,
             119,
             101,
-            114
+            115,
+            116,
+            10
           ],
-          "text": "␠lower"
+          "text": "low␠lower␠lowest\\n"
+        },
+        {
+          "bytes": [
+            108,
+            111,
+            119
+          ],
+          "text": "low"
         }
       ],
       "merged_token": {
@@ -8693,14 +8922,21 @@
           108,
           111,
           119,
+          101,
+          114,
           32,
           108,
           111,
           119,
           101,
-          114
+          115,
+          116,
+          10,
+          108,
+          111,
+          119
         ],
-        "text": "low␠low␠lower"
+        "text": "low␠lower␠lowest\\nlow"
       },
       "frequency": 1,
       "top_pairs": [
@@ -8713,9 +8949,59 @@
               32,
               108,
               111,
+              119,
+              101,
+              114,
+              32,
+              108,
+              111,
+              119,
+              101,
+              115,
+              116,
+              10
+            ],
+            "text": "low␠lower␠lowest\\n"
+          },
+          "right": {
+            "bytes": [
+              108,
+              111,
               119
             ],
-            "text": "low␠low"
+            "text": "low"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
+              108,
+              111,
+              119
+            ],
+            "text": "low"
+          },
+          "right": {
+            "bytes": [
+              32,
+              108,
+              111,
+              119
+            ],
+            "text": "␠low"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
+              32,
+              108,
+              111,
+              119
+            ],
+            "text": "␠low"
           },
           "right": {
             "bytes": [
@@ -8733,6 +9019,46 @@
         {
           "left": {
             "bytes": [
+              32,
+              108,
+              111,
+              119,
+              101,
+              114
+            ],
+            "text": "␠lower"
+          },
+          "right": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
+          "right": {
+            "bytes": [
+              116,
+              111,
+              107,
+              101,
+              110,
+              32
+            ],
+            "text": "token␠"
+          },
+          "count": 1
+        },
+        {
+          "left": {
+            "bytes": [
               116,
               111,
               107,
@@ -8789,66 +9115,6 @@
               110
             ],
             "text": "token"
-          },
-          "right": {
-            "bytes": [
-              105
-            ],
-            "text": "i"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              105
-            ],
-            "text": "i"
-          },
-          "right": {
-            "bytes": [
-              122
-            ],
-            "text": "z"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              122
-            ],
-            "text": "z"
-          },
-          "right": {
-            "bytes": [
-              97
-            ],
-            "text": "a"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              97
-            ],
-            "text": "a"
-          },
-          "right": {
-            "bytes": [
-              116
-            ],
-            "text": "t"
-          },
-          "count": 1
-        },
-        {
-          "left": {
-            "bytes": [
-              116
-            ],
-            "text": "t"
           },
           "right": {
             "bytes": [
@@ -8878,23 +9144,27 @@
               119,
               101,
               115,
-              116
+              116,
+              10
             ],
-            "text": "low␠lower␠lowest"
-          }
-        ],
-        [
+            "text": "low␠lower␠lowest\\n"
+          },
           {
             "bytes": [
               108,
               111,
-              119,
+              119
+            ],
+            "text": "low"
+          },
+          {
+            "bytes": [
               32,
               108,
               111,
               119
             ],
-            "text": "low␠low"
+            "text": "␠low"
           },
           {
             "bytes": [
@@ -8906,9 +9176,13 @@
               114
             ],
             "text": "␠lower"
-          }
-        ],
-        [
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -9004,21 +9278,25 @@
               119,
               101,
               115,
-              116
-            ],
-            "text": "low␠lower␠lowest"
-          }
-        ],
-        [
-          {
-            "bytes": [
+              116,
+              10,
               108,
               111,
-              119,
+              119
+            ],
+            "text": "low␠lower␠lowest\\nlow"
+          },
+          {
+            "bytes": [
               32,
               108,
               111,
-              119,
+              119
+            ],
+            "text": "␠low"
+          },
+          {
+            "bytes": [
               32,
               108,
               111,
@@ -9026,10 +9304,14 @@
               101,
               114
             ],
-            "text": "low␠low␠lower"
-          }
-        ],
-        [
+            "text": "␠lower"
+          },
+          {
+            "bytes": [
+              10
+            ],
+            "text": "\\n"
+          },
           {
             "bytes": [
               116,
@@ -9109,8 +9391,8 @@
       "metrics": {
         "vocab_size": 272,
         "learned_merges": 16,
-        "total_tokens": 12,
-        "compression_ratio": 0.2264
+        "total_tokens": 14,
+        "compression_ratio": 0.2545
       }
     }
   ],
@@ -9561,18 +9843,28 @@
         "bytes": [
           108,
           111,
-          119
-        ],
-        "text": "low"
-      },
-      "right": {
-        "bytes": [
+          119,
           32,
           108,
           111,
-          119
+          119,
+          101,
+          114,
+          32,
+          108,
+          111,
+          119,
+          101,
+          115,
+          116
         ],
-        "text": "␠low"
+        "text": "low␠lower␠lowest"
+      },
+      "right": {
+        "bytes": [
+          10
+        ],
+        "text": "\\n"
       },
       "token": {
         "bytes": [
@@ -9582,9 +9874,19 @@
           32,
           108,
           111,
-          119
+          119,
+          101,
+          114,
+          32,
+          108,
+          111,
+          119,
+          101,
+          115,
+          116,
+          10
         ],
-        "text": "low␠low"
+        "text": "low␠lower␠lowest\\n"
       }
     },
     {
@@ -9597,20 +9899,27 @@
           32,
           108,
           111,
-          119
-        ],
-        "text": "low␠low"
-      },
-      "right": {
-        "bytes": [
+          119,
+          101,
+          114,
           32,
           108,
           111,
           119,
           101,
-          114
+          115,
+          116,
+          10
         ],
-        "text": "␠lower"
+        "text": "low␠lower␠lowest\\n"
+      },
+      "right": {
+        "bytes": [
+          108,
+          111,
+          119
+        ],
+        "text": "low"
       },
       "token": {
         "bytes": [
@@ -9621,14 +9930,21 @@
           108,
           111,
           119,
+          101,
+          114,
           32,
           108,
           111,
           119,
           101,
-          114
+          115,
+          116,
+          10,
+          108,
+          111,
+          119
         ],
-        "text": "low␠low␠lower"
+        "text": "low␠lower␠lowest\\nlow"
       }
     }
   ],

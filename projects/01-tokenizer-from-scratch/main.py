@@ -24,7 +24,7 @@ def print_demo() -> None:
         print(f"pieces:    {pieces}")
         print(f"decoded:   {decoded!r}")
 
-    print(f"\nVocabulary size: {len(tokenizer.token_to_id)}")
+    print(f"\nVocabulary size: {len(tokenizer.vocab)}")
     print(f"Learned merges:  {len(tokenizer.merges)}")
 
 

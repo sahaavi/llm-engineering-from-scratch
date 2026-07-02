@@ -315,7 +315,7 @@ def build_artifacts(
             "title": "BPE Merge Microscope",
             "corpus": TRACE_CORPUS,
             "initial_vocab_size": 256,
-            "final_vocab_size": len(trace_tokenizer.token_to_id),
+            "final_vocab_size": len(trace_tokenizer.vocab),
         },
         "steps": trace_tokenizer.trace,
         "merges": trace_tokenizer.merge_records(),
@@ -325,8 +325,8 @@ def build_artifacts(
         ],
     }
     metrics = {
-        "small_vocab": {"vocab_size": len(small.token_to_id), "rows": small_rows},
-        "large_vocab": {"vocab_size": len(large.token_to_id), "rows": large_rows},
+        "small_vocab": {"vocab_size": len(small.vocab), "rows": small_rows},
+        "large_vocab": {"vocab_size": len(large.vocab), "rows": large_rows},
     }
 
     write_json(artifacts_dir / "trace.json", trace_data)
